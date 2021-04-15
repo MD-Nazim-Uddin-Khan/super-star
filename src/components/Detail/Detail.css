@@ -1,0 +1,18 @@
+.main-btn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 40px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.fontIcon{
+    height: 17.5px;
+    color: white;
+}
+.main-btn2{
+    padding-left: 9px;
+    font-weight: 800;
+    font-size: 17.5px;
+    color:white;
+}
